@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724757328 source:c:\users\amirk\onedrive\Рабочий стол\Новая папка\game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
